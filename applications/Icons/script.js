@@ -242,6 +242,23 @@
     "description",
     "belloutline",
     "to",
+    "chat",
+    "eventall",
+    "handlevertical",
+    "optionsgear",
+    "handlehorizontal",
+    "triangledown", 
+    "triangleup", 
+    "triangleright", 
+    "triangleleft",
+    "datatrending",
+    "dataarea",
+    "datausage", 
+    "datapie",
+    "pinmap",
+    "send",
+    "sendfilled",
+    "fullscreen"
 ];
 
 var divs = $.map(iconNames, function (name) {
